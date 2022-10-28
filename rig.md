@@ -38,9 +38,13 @@
 
 ### Multi-desktop work setup
 
+I had the following requirements:
+
  - I switch between the PC and Macbook multiple times a day
- - I want to use both with the same peripherals
+ - I want to use both with the same peripherals (dual monitor, up to 6 USB devices)
  - I want convenient access to fast USB 3 interfaces for external storage & other devices
+ - I want to fully utilize the monitors' 2k/144hz capabilities (rules out cheap KVMs)
+ - I don't want to spend hundreds of $ on a fancy KVM
 
 To achieve this, I have the setup described below.  
 Switching between PC/Mac, requires 3 operations:
