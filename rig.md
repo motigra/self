@@ -24,13 +24,17 @@
 
 **Peripherals**
 
-| Component | Mfc      | Name                                                  |
-|-----------|----------|-------------------------------------------------------|
-| Keyboard  | Asus     | ROG Strix Scope RX                                    |
-| Mouse     | Logitech | G502 Proteus Spectrum                                 |
-| Headset   | Corsair  | Virtuoso RGB                                          |
-| Controller| Microsoft| Xbox Series X Controller |
-| Monitors  | Dell     | S2721DGF 27" IPS 165hz 1440p **(x2 - dual monitors)** |
+| Component      | Mfc       | Name                                                  | SKU/Full Name      |
+|----------------|-----------|-------------------------------------------------------|--------------------|
+| Keyboard       | Asus      | ROG Strix Scope RX                                    |                    |
+| Mouse          | Logitech  | G502 Proteus Spectrum                                 |                    |
+| Headset        | Corsair   | Virtuoso RGB                                          |                    |
+| Controller     | Microsoft | Xbox Series X Controller                              |                    |
+| Monitors       | Dell      | S2721DGF 27" IPS 165hz 1440p **(x2 - dual monitors)** |                    |
+| USB Hub        | Orico     | USB 3.0 hub with 7 ports                              | (ORI-AT2U3-7AB-GY) |
+| USB A/B Switch | Sabrent   | USB 3.0 Sharing Switch                                | (USB-SW30)         |
+
+SABRENT for Multiple Computers and Peripherals LED Device Indicators 
 
 ### Laptop (work)
 
@@ -50,6 +54,8 @@ To achieve this, I have the setup described below.
 Switching between PC/Mac, requires 3 operations:
  - 2x switch input source on monitor (via shortcut physical button)
  - switch usb selection on A/B switch
+
+_Note: Both machines are connected to a simple 1GBPS ethernet switch and have WiFi for backup._
 
 ```mermaid
 flowchart BT
