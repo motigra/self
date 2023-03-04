@@ -24,10 +24,15 @@ Additionally, would be nice to have:
 
 The options I'm considering are:
 
- - [TrueNAS](https://www.truenas.com/): Free, based on FreeBSD, uses ZFS
- - UNRAID: One time purchase, linux
+ - [TrueNAS](https://www.truenas.com/): Free, based on FreeBSD, uses ZFS (needs ECC RAM)
+ - [UNRAID](https://unraid.net/): One time purchase, linux
+ - [OpenMediaVault](https://www.openmediavault.org/): Free, debian-linux
+
+Alternative approaches:
+
  - Ubuntu: Free, linux, requires separate RAID/NAS solution
  - Proxmox: Free (?), debian-linux, not sure if good fit?
+
 
 Things to consider:
 
